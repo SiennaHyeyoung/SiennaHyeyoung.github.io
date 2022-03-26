@@ -13,8 +13,6 @@ sidebar:
 {: .notice--info}
 What should we put for our portfolio site?
 
-
-
 # Design requirements
 
 - Single page

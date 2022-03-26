@@ -10,6 +10,8 @@ sidebar:
   #  nav: "docs"
 ---
 
+> 앞으로 공부해가야할 cs list
+
 1. CPU 개요
 
 2. 병렬 처리
